@@ -25,7 +25,7 @@ export const UserTable = () => {
     !users.length  && dispatch(getAllUsersAction());
   }, [users.length, dispatch]);
   return (
-    <div>
+    <div className="table-responsive">
       <Table striped bordered hover>
         <thead>
           <tr>
