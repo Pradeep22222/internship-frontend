@@ -15,4 +15,4 @@ User Management
 
 ## A feature
 
-1. Multiple users with same email cannot be added
+1. Multiple users can't have same email address
